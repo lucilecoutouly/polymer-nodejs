@@ -1,0 +1,16 @@
+{
+  "name":"node-polymer",
+  "version": "0.0.9",
+  "description": "Node.js on Docker",
+  "author":"lucile coutouly <lucile.coutouly@obs-nancay.fr>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node polymer/server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "directory": "app",
+  "name": "nancay-monitoring-antenna-database",
+  "private": true,
+  "dependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs",
+    "polymer": "Polymer/polymer#^1.2.3",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout",
+    "iron-icons": "PolymerElements/iron-icons",
+    "iron-pages": "PolymerElements/iron-pages",
+    "iron-ajax": "PolymerElements/iron-ajax",
+    "iron-request": "PolymerElements/iron-ajax",
+    "iron-selector": "PolymerElements/iron-selector",
+    "iron-form": "PolymerElements/iron-form",
+    "iron-image": "PolymerElements/iron-image",
+    "iron-component-page": "PolymerElements/iron-component-page",
+    "iron-collapse": "PolymerElements/iron-collapse",
+    "iron-media-query": "PolymerElements/iron-media-query",
+    "iron-fit-behavior": "PolymerElements/iron-fit-behavior",
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior",
+    "gold-email-input": "PolymerElements/gold-email-input#^1.0.7",
+    "iron-grid": "*",
+    "google-chart": "^1.0.6",
+    "moment": "momentjs#^2.13.0",
+    "elasticsearch": "^11.0.1",
+    "paper-badge": "PolymerElements/paper-badge#~1.0.2",
+    "paper-time-picker": "bendavis78/paper-time-picker#~1.0.3",
+    "paper-date-picker": "bendavis78/paper-date-picker#~1.0.3",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.1",
+    "platinum-elements": "PolymerElements/platinum-elements#^1.0.1",
+    "neon-elements": "PolymerElements/neon-elements#^1.0.0",
+    "page": "visionmedia/page.js#^1.6.3",
+    "jquery": "~2.2.0",
+    "import-momentjs": "*"
+  },
+  "devDependencies": {
+    "web-component-tester": "*",
+    "test-fixture": "PolymerElements/test-fixture#^1.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "moment": "^2.13.0"
+  }
+}
